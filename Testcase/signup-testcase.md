@@ -1,6 +1,11 @@
-**Excel version:**
+Testcases for **Signup feature** with different user roles.
+
+---
+
+## 👤 Role: Normal User
 
 [⬇ Download Signup Testcase (Excel)](https://github.com/chauvn21/QA_Portfolio/raw/main/Testcase/Testcase%20_Signup_User%20.xlsx)
+
 
 
 
